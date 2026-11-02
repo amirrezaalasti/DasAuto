@@ -108,3 +108,8 @@ React + TypeScript + Vite, with three.js via @react-three/fiber and drei.
 
 Figures are representative and rounded, and vary by trim, market and model year. The machinery is a
 reconstruction for learning, not factory CAD data. Not affiliated with Volkswagen AG.
+
+## License
+
+The source code is released under the [MIT License](LICENSE). The 3D models are not covered by it: each keeps
+its own license and credit, listed in `src/data/models.json`.
