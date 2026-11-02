@@ -1,0 +1,113 @@
+{
+  "golf": {
+    "uid": "84fe6c2b9feb4c8a854d16f3daf33eab",
+    "title": "Volkswagen Golf GTI (2025)",
+    "author": "geyges",
+    "license": "Sketchfab Free Standard"
+  },
+  "id3": {
+    "uid": "869fe1b400104f45b9a51df73222b7c4",
+    "title": "Volkswagen ID.3 Pro (2024)",
+    "author": "geyges",
+    "license": "Sketchfab Free Standard"
+  },
+  "tiguan": {
+    "uid": "18333bf2a9564772917ae8a349b81e62",
+    "title": "Volkswagen Tiguan (2025)",
+    "author": "geyges",
+    "license": "Sketchfab Free Standard"
+  },
+  "id4": {
+    "uid": "20d27c97c31043e8a3d1baa279597253",
+    "title": "Volkswagen ID.4 Pro (2025)",
+    "author": "geyges",
+    "license": "Sketchfab Free Standard"
+  },
+  "passat": {
+    "uid": "b2a0e324a9ee47b689110cca5a5b0d76",
+    "title": "2025 Volkswagen Passat Pro 1.5",
+    "author": "ddiaz-design",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "id7": {
+    "uid": "a1356d1767e94341845367e78260537a",
+    "title": "Volkswagen ID.7 2024",
+    "author": "niev",
+    "license": "CC BY 4.0"
+  },
+  "bmw330i": {
+    "uid": "8a824c2b689b4b05b136ac599adf5f98",
+    "title": "BMW G20 330i Facelift",
+    "author": "koelkastasbers",
+    "license": "Sketchfab Free Standard"
+  },
+  "bmwi4": {
+    "uid": "1f23525ab55746899e3645e3352981c2",
+    "title": "2022 BMW i4",
+    "author": "tonielpro520",
+    "license": "CC BY 4.0",
+    "flip": true
+  },
+  "c200": {
+    "uid": "c0ef31daf7cf4a8bada4b56005c19e83",
+    "title": "Mercedes-Benz W206 C220",
+    "author": "koelkastasbers",
+    "license": "Sketchfab Free Standard"
+  },
+  "eqe": {
+    "uid": "43643cf5bc26471083d66d0d3b85de4f",
+    "title": "Mercedes-Benz EQE",
+    "author": "emrecnarr",
+    "license": "CC BY 4.0"
+  },
+  "q4etron": {
+    "uid": "5d34f3e7141d4562b4f0c257ff54326b",
+    "title": "2022 Audi Q4 e-tron",
+    "author": "tonielpro520",
+    "license": "CC BY 4.0"
+  },
+  "fiat500e": {
+    "uid": "94dd3a8ce4ad45c8819541a33cb400b2",
+    "title": "2021 Fiat e500",
+    "author": "tonielpro520",
+    "license": "CC BY 4.0",
+    "flip": true
+  },
+  "minicoopers": {
+    "uid": "2baca439d2494e02b99596014b49ebd3",
+    "title": "Mini Cooper S Facelift",
+    "author": "Car2022",
+    "license": "CC BY 4.0",
+    "flip": true
+  },
+  "kona": {
+    "uid": "26c27a6e061d4776b750e483b933df79",
+    "title": "2025 Hyundai Kona N Line",
+    "author": "ddiaz-design",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "konaev": {
+    "uid": "897f9ee7eeda4b989f030988e237ae9a",
+    "title": "2024 Hyundai Kona Electric",
+    "author": "ddiaz-design",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "q5": {
+    "uid": "60fea790b21c48bcb379be2a6d2c1f81",
+    "title": "2023 Audi Q5 quattro S line 45 TFSI",
+    "author": "ddiaz-design",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "fiat500": {
+    "uid": "c2fd07f3ec3e4294aed96fdce666fe3e",
+    "title": "Fiat 500 (2016)",
+    "author": "KaterinaNovakova",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "minicooperse": {
+    "uid": "eafb57c1943c42e7947c668b8c5618d9",
+    "title": "Mini Cooper SE 2020",
+    "author": "niev",
+    "license": "CC BY 4.0"
+  }
+}
