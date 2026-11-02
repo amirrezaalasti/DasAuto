@@ -4,3 +4,6 @@ dist
 .env.local
 .DS_Store
 *.tsbuildinfo
+
+# Demo video is attached to releases instead
+docs/*.mp4

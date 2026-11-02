@@ -16,6 +16,21 @@ counterpart, and every car is a real 3D model:
 | MINI | Cooper S | Cooper SE |
 | Hyundai | Kona 1.6 T-GDi | Kona Electric |
 
+## Screenshots
+
+| | |
+| --- | --- |
+| ![Golf](docs/screenshots/01-golf-overview.png) | ![Exploded view](docs/screenshots/02-golf-exploded.png) |
+| Real Volkswagen Golf model | Exploded view |
+| ![X-ray](docs/screenshots/03-golf-xray.png) | ![Bonnet view](docs/screenshots/06-golf-mechanic-bonnet.png) |
+| X-ray: the machinery inside | Mechanic view: under the bonnet |
+| ![Turbocharger](docs/screenshots/04-golf-turbo-part.png) | ![DSG](docs/screenshots/05-golf-dsg-part.png) |
+| Click a part to see how it works | Dual-clutch gearbox |
+| ![Tour](docs/screenshots/07-golf-tour-step3.png) | ![ID.3 battery](docs/screenshots/10-id3-tour-battery.png) |
+| Guided tour: four strokes | ID.3: the battery pack |
+
+A demo video is attached to each [GitHub release](https://github.com/amirrezaalasti/DasAuto/releases).
+
 ## What you can do
 
 - **Explore**: orbit, zoom and click any of ~45 parts per car. Each part says *what it is* and *how it works*, with key data.
